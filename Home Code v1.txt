@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Equinix Consultancy Ltd</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+
+    <nav>
+
+      <div class="logo">
+        <span class="logo-main">Equinix</span>
+        <span class="logo-sub">Consultancy Ltd</span>
+      </div>
+
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="nutrition.html">Nutrition & Wellness</a>
+        <a href="regulatory.html">Regulatory Affairs</a>
+      </div>
+
+    </nav>
+
+  </div>
+</header>
+
+<section class="hero-slider">
+
+  <div class="slide slide1">
+    <div class="overlay"></div>
+
+    <div class="slide-content">
+      <div>
+        <h1>Professional Nutrition & Wellness Solutions</h1>
+
+        <p>
+          Empowering healthier lifestyles through professional
+          nutrition and wellness support.
+        </p>
+
+        <a href="nutrition.html" class="btn">
+          Explore Services
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide slide2">
+    <div class="overlay"></div>
+
+    <div class="slide-content">
+      <div>
+        <h1>Healthy Living Starts Here</h1>
+
+        <p>
+          Personalized support for individuals,
+          families, and organizations.
+        </p>
+
+        <a href="nutrition.html" class="btn">
+          Nutrition & Wellness
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide slide3">
+    <div class="overlay"></div>
+
+    <div class="slide-content">
+      <div>
+        <h1>Trusted Consultancy Services</h1>
+
+        <p>
+          Evidence-based wellness and regulatory
+          support for sustainable success.
+        </p>
+
+        <a href="regulatory.html" class="btn">
+          Regulatory Affairs
+        </a>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 Equinix Consultancy Ltd. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
